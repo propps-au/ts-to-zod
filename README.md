@@ -3,6 +3,12 @@
   <h1 align="center">ts-to-zod</h1>
 </div>
 
+## Propps Modifications
+
+- Added support for compiling `never` to `z.never()`.
+
+---
+
 Generate [Zod](https://github.com/colinhacks/zod) schemas (v3) from Typescript types/interfaces.
 
 [![Version](https://img.shields.io/npm/v/ts-to-zod.svg)](https://npmjs.org/package/ts-to-zod)
